@@ -1,16 +1,15 @@
-# nlp
-NLP
+# NLP
 
 
-#NLTK
+# NLTK
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/timmiyassine/nlp/main?filepath=NLTK.ipynb)
 
-#SpaCy
+# SpaCy
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/timmiyassine/nlp/main?filepath=Spacy.ipynb)
 
 
-#huggingface
+# huggingface
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/timmiyassine/nlp/main?filepath=huggingface.ipynb)
