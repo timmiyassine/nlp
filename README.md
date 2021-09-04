@@ -28,10 +28,10 @@
 
 
 # Vector Representation of Text Using
-Word2Vec using Gensim package
-One_Hot and CBoW using Keras
-CountVectorizer using scikit-learn
-TfidfVectorizer using scikit-learn
-OneHotEncoder using scikit-learn
+###### Word2Vec using Gensim package
+###### One_Hot and CBoW using Keras
+###### CountVectorizer using scikit-learn
+###### TfidfVectorizer using scikit-learn
+###### OneHotEncoder using scikit-learn
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/timmiyassine/nlp-tps/main?filepath=NLP_vector_representation_of_text.ipynb)
