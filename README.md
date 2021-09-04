@@ -15,14 +15,14 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/timmiyassine/nlp/main?filepath=huggingface.ipynb)
 
 # NLP Tasks with Transformers using HuggingFace
-█ Sentiment analysis
-█ Text generation
-█ Name entity recognition (NER)
-█ Question answering
-█ Filling masked text
-█ Summarization
-█ Translation
-█ Feature extraction
+###### Sentiment analysis
+###### Text generation
+###### Name entity recognition (NER)
+###### Question answering
+###### Filling masked text
+###### Summarization
+###### Translation
+###### Feature extraction
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/timmiyassine/nlp-tps/main?filepath=NLP_using_huggingface.ipynb)
 
